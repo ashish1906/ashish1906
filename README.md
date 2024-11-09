@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashish</h1>
+<h1 align="center"><b>Hi , I'm Ashish </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <h3 align="center">Writing code nobody asked for since 2021..... 🤖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish1906&label=Profile%20views&color=0e75b6&style=flat" alt="ashish1906" /> </p>
