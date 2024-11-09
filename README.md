@@ -1,3 +1,7 @@
+
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/a9d8d1c5-ec1f-4311-9fcc-d5fd6071035d)
+
+---
 <h1 align="center"><b>Hi , I'm Ashish </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">Writing code nobody asked for since 2021..... 🤖</h3>
